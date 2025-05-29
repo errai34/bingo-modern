@@ -1,4 +1,4 @@
-# Robust Bayesian Neural Network for Stellar Age Prediction
+# Robust Bayesian Neural Network for Stellar Age Determination
 
 An implementation of Bayesian Neural Networks (BNNs) for predicting stellar ages from spectro data, with uncertainty quantification and diagnostic tools.
 
